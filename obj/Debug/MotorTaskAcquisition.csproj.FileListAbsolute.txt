@@ -1,0 +1,62 @@
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\MotorTaskAcquisition.exe.config
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\MotorTaskAcquisition.exe
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\MotorTaskAcquisition.pdb
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.Properties.Resources.resources
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.csproj.GenerateResource.cache
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.exe
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.pdb
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.ChildForm1.resources
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.Form1.resources
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.ChildForm2.resources
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Core.dll
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\System.Windows.Forms.dll
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\WindowsFormsIntegration.dll
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Core.pdb
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.pdb
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\System.Windows.Forms.xml
+C:\Users\loren\source\repos\MotorTaskAcquisition\bin\Debug\WindowsFormsIntegration.xml
+C:\Users\loren\source\repos\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.csproj.CopyComplete
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\MotorTaskAcquisition.exe.config
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\MotorTaskAcquisition.exe
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\MotorTaskAcquisition.pdb
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Core.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\System.Windows.Forms.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\WindowsFormsIntegration.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Core.pdb
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.pdb
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.pdb
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\System.Windows.Forms.xml
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\WindowsFormsIntegration.xml
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.csproj.AssemblyReference.cache
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.ChildForm1.resources
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.ChildForm2.resources
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.Form1.resources
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.Properties.Resources.resources
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.csproj.GenerateResource.cache
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.csproj.CopyComplete
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.exe
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\obj\Debug\MotorTaskAcquisition.pdb
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Combinatorics.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\MathNet.Filtering.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\MathNet.Numerics.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\System.ValueTuple.dll
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\Combinatorics.xml
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\MathNet.Filtering.xml
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\MathNet.Numerics.xml
+C:\Users\loren\OneDrive - unifi.it\Documents\Unifi\Interfacce C#\MotorTaskAcquisition\bin\Debug\System.ValueTuple.xml

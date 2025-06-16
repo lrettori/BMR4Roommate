@@ -1,0 +1,17 @@
+[1]
+OPCL
+Opening-Closing Hand
+Sensori: LH, RH
+Posizione iniziale: soggetto seduto, gomito appoggiato sul tavolo e braccio perpendicolare ad esso, con il pugno chiuso in modo incompleto (con le falangi distali non flesse e il pollice esteso verso l'esterno della mano).
+Esecuzione dell'esercizio: apertura e chiusura del pugno in modo incompleto, movimento ampio ma il più veloce ed ampio possibile.
+Posizione finale: pugno chiuso in modo incompleto come nella posizione iniziale.
+Timing esercizio: prima fase di calibrazione (soggetto fermo) di 3 secondi, primo segnale acustico e inizio dell'esercizio. Dopo 10 secondi secondo segnale acustico e fine esercizio. Fase di calibrazione finale (soggetto fermo) per 3 secondi, fino al terzo e ultimo segnale acustico.
+
+[2]
+PSUP
+Pronosupination
+Sensori: LH, RH
+Posizione iniziale: braccio esteso, con palmo della mano rivolto verso il basso.
+Esecuzione dell'esercizio: movimento di pronosupinazione ripetuto, con la massima escursione e velocità.
+Posizione finale: braccio esteso, con palmo della mano rivolto verso il basso, come nella posizione iniziale.
+Timing esercizio: prima fase di calibrazione (soggetto fermo) di 3 secondi, primo segnale acustico e inizio dell'esercizio. Dopo 10 secondi secondo segnale acustico e fine esercizio. Fase di calibrazione finale (soggetto fermo) per 3 secondi, fino al terzo e ultimo segnale acustico.
